@@ -2,7 +2,7 @@
  "headers": {
    "/**": {
     "X-Author": "berntmer",
-    "Access-Control-Allow-Origin": "*",
+    
    }
  }
 }
